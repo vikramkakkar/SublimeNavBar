@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SublimeNavBar</string>
+
+    <string name="cd_nav_bar_image">Navigation Bar image</string>
+    <string name="text_allow_system_alert_window">To get SublimeNavBar up &amp; running, you\'ll need to grant the `SYTEM_ALERT_WINDOW` permission.</string>
+    <string name="text_start_stop_service">Start or stop SublimeNavBar service.</string>
+    <string name="text_permission_granted_restart_service">Permission granted. You should restart SublimeNavBarService now.</string>
+    <string name="text_button">GO</string>
+</resources>
